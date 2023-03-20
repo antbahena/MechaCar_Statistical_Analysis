@@ -30,7 +30,7 @@ Both lot 1 and 2 are not low enough for us to reject the null hypothesis at 0.60
 ![Output Delv3](Images/Lot2_T_Test.png)
 
 Lot 3 on the other hand is not low enough to reject but being at 0.04168 it would require a closer look.
-![Output Delv3](Images/Lot3_T_Test.png)
+![Output Delv3](Images/Lot3_T_test.png)
 
 
 
