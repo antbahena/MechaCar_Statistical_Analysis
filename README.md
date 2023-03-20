@@ -14,8 +14,12 @@ The linear model does predict effectively to a certain degree this is due to the
 ![Output Delv1](Images/Deliverable1.png)
 
 ## Summary Statistics on Suspension Coils
-![Output Delv1](Images/summary)
-![Output Delv1](Images/Deliverable1.png)
+![Output Delv2](Images/Total_Summary.png)
+![Output Delv2](Images/Lot_Summary.png)
+
+#### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+The total daya as shown in the summaries shows that they meet the 100 PSI specifications but Lo3 is an outlier as it has a variance that is at 170.28.
 
 
 
