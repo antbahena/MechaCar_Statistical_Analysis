@@ -9,8 +9,15 @@ The variables vehicle_length and ground_clearance provide the non_random amount 
 #### Is the slope of the linear model considered to be zero? Why or why not?
 No the slope is not considered 0 as the data shows. The coefficients table shows that the independent variables such as vehile_length and vehicle_weight are not zero. 
 
-####Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+#### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The linear model does predict effectively to a certain degree this is due to the p-value vehicle_weight variable being at 0.0076 which is greater than 0.05.
-
-
 ![Output Delv1](Images/Deliverable1.png)
+
+## Summary Statistics on Suspension Coils
+![Output Delv1](Images/summary)
+![Output Delv1](Images/Deliverable1.png)
+
+
+
+
+
