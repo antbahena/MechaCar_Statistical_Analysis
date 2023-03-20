@@ -33,6 +33,11 @@ Lot 3 on the other hand is not low enough to reject but being at 0.04168 it woul
 ![Output Delv3](Images/Lot3_T_test.png)
 
 
+## Study Design: MechaCar vs Competition
+
+It would be important to conduct a study showing how the Mechacar compares to specific types of cars such as sedans or other "fuel efficient" vehicles. From here we can conduct T-tests to see if it is truly more efficient and beneficial to have a Mechacar and therefore allowing to prove that Mechacar stands above its comeptitors.
+
+
 
 
 
