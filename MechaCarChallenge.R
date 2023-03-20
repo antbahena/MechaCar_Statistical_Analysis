@@ -34,5 +34,13 @@ lot_summary <- suspension_coil_df %>%
 #Show lot_summary
 print(lot_summary)
 
+#T-test
+t.test(suspension_coil_df$PSI, mu=1500)
+
+#3 more R Scripts
+t.test(subset(suspension_coil_df,Manufacturing_Lot=="Lot1")$PSI, mu = 1500)
+t.test(subset(suspension_coil_df,Manufacturing_Lot=="Lot2")$PSI, mu = 1500)
+t.test(subset(suspension_coil_df,Manufacturing_Lot=="Lot3")$PSI, mu = 1500)
+
 
 
